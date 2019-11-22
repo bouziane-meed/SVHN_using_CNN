@@ -7,6 +7,8 @@ SVHN is a real-world image dataset for developing machine learning and object re
 
 Here we are classifying 32 x 32 cropped images given in format 2 Using CNN architecture.
 
-Train_32x32
-Test_32x32
-Extra_32x32
+
+Dataset <a href="http://ufldl.stanford.edu/housenumbers/">Link </a> :
+ - Train_32x32
+ - Test_32x32
+ - Extra_32x32
