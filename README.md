@@ -12,3 +12,6 @@ Dataset <a href="http://ufldl.stanford.edu/housenumbers/">Link </a> for :
  - Train_32x32
  - Test_32x32
  - Extra_32x32
+
+* Folder SHNV_models : Content saved models.
+* SVHN-Model-using-CNN.ipynb file : Content the code and some explanations.
